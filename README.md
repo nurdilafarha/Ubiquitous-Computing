@@ -33,6 +33,3 @@ Referensi:
 ## Deskripsi Teknologi
 
 ## User Experience (UX) Design
-
-##
-- 
