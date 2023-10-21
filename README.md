@@ -8,19 +8,37 @@ COD (Cash On Delivery) merupakan metode pembayaran atas pembelian suatu produk p
 
 Referensi: https://fhukum.unpatti.ac.id/jurnal/tatohi/article/view/895
 
-Maka dari itu, dibutuhkan sistem yang dapat membantu keamanan untuk kurir COD. Salah satunya ialah menggunakan teknologi deteksi ekspresi wajah (expression recognition). dengan teknologi tersebut, sistem diharapkan mampu mendeteksi ekspresi wajah pembeli COD, sehingga ketika terdeteksi pembeli marah pada kurir, sistem akan mengirimkan pesan notifikasi melalui telegram bahwa kurir tersebut dalam bahaya.
+Maka dari itu, dibutuhkan sistem yang dapat membantu keamanan untuk kurir COD. Salah satunya ialah menggunakan teknologi deteksi ekspresi wajah (expression recognition). Dengan teknologi tersebut, sistem diharapkan mampu mendeteksi ekspresi wajah pembeli COD, sehingga ketika terdeteksi pembeli marah pada kurir, sistem akan mengirimkan pesan notifikasi bahwa kurir tersebut dalam bahaya.
 
 Referensi:
 
 ## Branding
-- Merk: SafetyCourrier
-- Inspirasi merk:
-- Tagline:
-- Campaign:
-- Target user:
-- User experience theme:
+- Merk: Safe Courier
+- Inspirasi merk: Berasal dari bahasa Inggris yaitu safe yang berarti aman dan courier yang berarti kurir
+- Tagline: 
+- Campaign: Menjadikan pekerjaan kurir menjadi lebih aman
+- Target user: Orang yang bekerja sebagai kurir
+- User experience theme: Mudah digunakan
 
 ## User Story
+<table>
+    <thead>
+        <tr>
+            <th>Sebagai</th>
+            <th>Saya Ingin bisa</th>
+            <th>Sehingga</th>
+            <th>Prioritas</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Sistem</td><td>Merekognisi ekspresi wajah dari kamera</td><td>Dapat mengetahui kondisi emosi pembeli</td><td>5/5</td>
+        </tr>
+        <tr>
+            <td>Sistem</td><td>Mengirimkan pesan otomatis bahwa kurir sedang dalam bahaya</td><td>Keamanan kurir dapat terjaga</td><td>4/5</td>
+        </tr>
+    </tbody>
+</table>
 
 ## Metode dan Algoritma
 - Sensor :
