@@ -11,11 +11,11 @@ Maka dari itu, diperlukan teknologi yang dapat membantu penghuni rumah untuk mem
 Referensi: https://databoks.katadata.co.id/datapublish/2023/07/18/pencurian-kejahatan-paling-banyak-di-indonesia-sampai-april-2023
 
 ## Branding
-- Merk: 
-- Inspirasi merk: 
-- Tagline: Teknologi 
+- Merk: Piruma
+- Inspirasi merk: Gabungan dari dua kata bahasa Indonesia yaitu "Rumah" dan "Pintar"
+- Tagline: Sistem keamanan untuk rumah anda
 - Campaign: Menjadikan rumah lebih aman
-- Target user: Pemilik rumah
+- Target user: Pemilik rumah yang membutuhkan sistem keamanan rumah
 - User experience theme: Mudah digunakan, mudah diakses
 
 ## User Story
@@ -39,7 +39,7 @@ Referensi: https://databoks.katadata.co.id/datapublish/2023/07/18/pencurian-keja
 </table>
 
 ## Metode dan Algoritma
-Metode Haar-cascade Classifier sebagai metode pengenala wajah untuk mengklasifikasikan penghuni rumah dan orang asing
+Metode Haar-cascade Classifier sebagai metode pengenalan wajah untuk mengklasifikasikan penghuni rumah dan orang asing
  
 ## Struktur Data
 ![tabel relasi](https://github.com/nurdilafarha/Ubiquitous-Computing/blob/main/Tabel%20Relasi_ubikom.drawio.png)
