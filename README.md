@@ -42,7 +42,7 @@ Referensi: https://databoks.katadata.co.id/datapublish/2023/07/18/pencurian-keja
 Metode Haar-cascade Classifier sebagai metode pengenalan wajah untuk mengklasifikasikan penghuni rumah dan orang asing
  
 ## Struktur Data
-![tabel relasi]()
+![tabel relasi](https://github.com/nurdilafarha/Ubiquitous-Computing/blob/main/Tabel%20Relasi_ubikom.drawio%20(1).png)
 
 ## Arsitektur Sistem
 
