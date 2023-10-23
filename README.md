@@ -45,6 +45,7 @@ Metode Haar-cascade Classifier sebagai metode pengenalan wajah untuk mengklasifi
 ![tabel relasi](https://github.com/nurdilafarha/Ubiquitous-Computing/blob/main/Tabel%20Relasi_ubikom.drawio%20(1).png)
 
 ## Arsitektur Sistem
+![arsitektur sistem](https://github.com/nurdilafarha/Ubiquitous-Computing/blob/main/Arsitektur%20Sistem_ubikom.drawio.png)
 
 ## Deskripsi Teknologi
 - Software development: PHP & MySQL
