@@ -15,8 +15,8 @@ Referensi: https://databoks.katadata.co.id/datapublish/2023/07/18/pencurian-keja
 - Inspirasi merk: Gabungan dari dua kata bahasa Indonesia yaitu "Rumah" dan "Pintar"
 - Tagline: Sistem keamanan untuk rumah anda
 - Campaign: Menjadikan rumah lebih aman
-- Target user: Pemilik rumah yang membutuhkan sistem keamanan rumah
-- User experience theme: Mudah digunakan, mudah diakses
+- Target user: Pemilik rumah yang jarang ada di rumah
+- User experience theme: Mudah digunakan
 
 ## User Story
 <table>
@@ -48,10 +48,10 @@ Metode Haar-cascade Classifier sebagai metode pengenalan wajah untuk mengklasifi
 ![arsitektur sistem](https://github.com/nurdilafarha/Ubiquitous-Computing/blob/main/Arsitektur%20Sistem_ubikom.drawio.png)
 
 ## Deskripsi Teknologi
-- Software development: PHP & MySQL
-- Sensor kamera: Raspberry pi. Raspberry pi memiliki prosesor yang lebih kuat dibandingkan arduino dan dapat menjalankan perangkat lunak yang memerlukan pemrosesan citra yang kompleks. Sehingga raspberry pi lebih cocok digunakan untuk face recognition.
+- Software development: PHP & MySQL.  
+- Sensor kamera: Raspberry pi. Raspberry pi merupakan mini komputer yang memiliki prosesor yang lebih kuat dibandingkan arduino dan dapat menjalankan perangkat lunak yang memerlukan pemrosesan citra yang kompleks. Sehingga raspberry pi lebih cocok digunakan untuk face recognition.
   (Alternatif: Kamera laptop)
-- Library openCV
+- Library OpenCV. OpenCV merupakan perangkat lunak open source yang dapat digunakan dalam pengenalan wajah dan mendukung pemrosesan gambar atau video secara real-time.
 
 ## User Experience (UX) Design
 ![login](https://github.com/nurdilafarha/Ubiquitous-Computing/blob/main/Frame%201.png)
