@@ -46,8 +46,8 @@ Metode Haar-cascade Classifier sebagai metode pengenalan wajah untuk mengklasifi
 
 ## Arsitektur Sistem
 ![arsitektur sistem](https://github.com/nurdilafarha/Ubiquitous-Computing/blob/main/Arsitektur%20Sistem_ubikom.drawio.png)
-
-Sensor yang digunakan pada sistem keamanan rumah dengan face recognition ini adalah sensor kamera. Sensor kamera tersebut digunakan untuk melakukan pengenalan wajah penghuni rumah secara real-time menggunakan library OpenCV. Hasil deteksi tersebut akan disimpan ke dalam database dan ditampilkan pada halaman hasil deteksi
+---
+Sensor yang digunakan pada sistem keamanan rumah dengan face recognition ini adalah sensor kamera. Sensor kamera tersebut digunakan untuk melakukan pengenalan wajah penghuni rumah secara real-time menggunakan library OpenCV. Hasil deteksi tersebut akan disimpan ke dalam database dan ditampilkan pada halaman hasil deteksi.
 
 ## Deskripsi Teknologi
 - Software development: PHP & MySQL.  
