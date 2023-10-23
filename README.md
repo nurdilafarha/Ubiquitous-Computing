@@ -53,3 +53,7 @@ Metode Haar-cascade Classifier sebagai metode pengenalan wajah untuk mengklasifi
 - Library openCV
 
 ## User Experience (UX) Design
+![login](https://github.com/nurdilafarha/Ubiquitous-Computing/blob/main/Frame%201.png)
+![home](https://github.com/nurdilafarha/Ubiquitous-Computing/blob/main/Frame%202.png)
+![deteksi](https://github.com/nurdilafarha/Ubiquitous-Computing/blob/main/Frame%203.png)
+![hasil deteksi](https://github.com/nurdilafarha/Ubiquitous-Computing/blob/main/Frame%204.png)
