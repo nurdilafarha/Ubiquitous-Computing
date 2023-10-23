@@ -47,7 +47,7 @@ Metode Haar-cascade Classifier sebagai metode pengenalan wajah untuk mengklasifi
 ## Arsitektur Sistem
 
 ## Deskripsi Teknologi
-- Web development: PHP
+- Software development: PHP & MySQL
 - Sensor kamera: Raspberry pi
   (Alternatif: Kamera laptop)
 - Library openCV
