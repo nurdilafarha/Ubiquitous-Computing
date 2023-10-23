@@ -49,7 +49,7 @@ Metode Haar-cascade Classifier sebagai metode pengenalan wajah untuk mengklasifi
 
 ## Deskripsi Teknologi
 - Software development: PHP & MySQL
-- Sensor kamera: Raspberry pi
+- Sensor kamera: Raspberry pi. Raspberry pi memiliki prosesor yang lebih kuat dibandingkan arduino dan dapat menjalankan perangkat lunak yang memerlukan pemrosesan citra yang kompleks. Sehingga raspberry pi lebih cocok digunakan untuk face recognition.
   (Alternatif: Kamera laptop)
 - Library openCV
 
