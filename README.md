@@ -45,7 +45,7 @@ Algoritma Haar-cascade classifier merupakan metode machine learning yang digunak
 ## Arsitektur Sistem
 ![arsitektur sistem](https://github.com/nurdilafarha/Ubiquitous-Computing/blob/main/Arsitektur%20Sistem_ubikom.drawio.png)
 ---
-Sensor yang digunakan pada sistem keamanan rumah dengan face recognition ini adalah sensor kamera. 
+Sensor yang digunakan pada sistem keamanan rumah dengan face recognition ini adalah sensor kamera. Sensor kamera tersebut digunakan untuk pengenalan wajah penghuni rumah dengan cara melakukan perekaman data wajah penghuni rumah. Data data tersebut kemudian disimpan dan ditraining sehingga mesin dapat mengenali wajah penghuni rumah. Setelah itu baru dilakukan pengenalan wajah atau face recognition secara real-time berdasarkan data-data yang sudah direkam tadi, lalu hasil deteksinya akan ditampilkan siapa yang terdeteksi serta waktu terdeteksinya.
 
 ## Deskripsi Teknologi
 - Edge Server : Raspberry pi. Raspberry pi merupakan mini komputer yang memiliki prosesor yang lebih kuat dibandingkan arduino dan dapat menjalankan perangkat lunak yang memerlukan pemrosesan citra yang kompleks. Sehingga Raspberry pi lebih cocok digunakan untuk face recognition.
