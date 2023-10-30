@@ -28,10 +28,10 @@ Untuk mengatasi masalah tersebut, maka diperlukan suatu sistem yang dapat memban
     </thead>
     <tbody>
         <tr>
-            <td>Sistem</td><td>Mendeteksi wajah dari kamera</td><td>Dapat mengenali wajah penghuni rumah</td><td>5/5</td>
+            <td>Sistem</td><td>Mendeteksi wajah dari kamera</td><td>Dapat mengenali wajah penghuni rumah</td><td>⭐⭐⭐⭐⭐</td>
         </tr>
         <tr>
-            <td>Sistem</td><td>Menampilkan data hasil deteksi wajah</td><td>Penghuni rumah dapat mengetahui siapa saja yang masuk ke rumah</td><td>4/5</td>
+            <td>Sistem</td><td>Menampilkan data hasil deteksi wajah</td><td>Penghuni rumah dapat mengetahui siapa saja yang masuk ke rumah</td><td>⭐⭐⭐⭐⭐</td>
         </tr>
     </tbody>
 </table>
