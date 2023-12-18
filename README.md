@@ -50,7 +50,7 @@ Sensor yang digunakan pada sistem keamanan rumah dengan face recognition ini ada
 ## Deskripsi Teknologi
 - Edge Server : Raspberry pi. Raspberry pi merupakan mini komputer yang memiliki prosesor yang lebih kuat dibandingkan arduino dan dapat menjalankan perangkat lunak yang memerlukan pemrosesan citra yang kompleks. Sehingga Raspberry pi lebih cocok digunakan untuk face recognition.
 - Sensor kamera : Kamera laptop Lenovo Ideapad 320. Kamrea laptop ini digunakan sebagai alternatif pengganti dari Raspberry pi yang memiliki harga yang cukup mahal.
-- Software development: PHP & MySQL. PHP dan MySQL digunakan karena mudah dioperasikan dalam pembuatan web
+- Software development: Python dengan framework Flask & MySQL. Flask dan MySQL digunakan karena mudah dioperasikan dalam pembuatan web
 - Library OpenCV : OpenCV merupakan perangkat lunak open source yang dapat digunakan dalam pengenalan wajah dan mendukung pemrosesan gambar atau video secara real-time. Bahasa pemrograman yang digunakan adalah python.
 
 ## User Experience (UX) Design
