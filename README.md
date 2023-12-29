@@ -54,6 +54,10 @@ Sensor yang digunakan pada sistem keamanan rumah dengan face recognition ini ada
 - Library OpenCV : OpenCV merupakan perangkat lunak open source yang dapat digunakan dalam pengenalan wajah dan mendukung pemrosesan gambar atau video secara real-time. Bahasa pemrograman yang digunakan adalah python.
 
 ## User Experience (UX) Design
+
+### Tampilan halaman awal aplikasi
+![halamn awal](https://github.com/nurdilafarha/Ubiquitous-Computing/blob/main/Piruma_halaman%20awal.jpg)
+
 ### Tampilan login menggunakan PHP
 ![login](https://github.com/nurdilafarha/Ubiquitous-Computing/blob/main/login-piruma.png)
 ### Prototype menggunakan figma
