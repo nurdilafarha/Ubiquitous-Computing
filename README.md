@@ -1,7 +1,7 @@
 # Project Ubiquitous Computing
 
 ## Intro
-Project UbiCom ini bertemakan Sistem Keamanan Rumah Berbasis Face Recognition
+Project Ubiquitous Computing ini bertemakan Sistem Keamanan Rumah Berbasis Face Recognition
 
 ## Latar Belakang
 Keamanan rumah merupakan hal penting yang selalu menjadi perhatian bagi pemilik rumah. Rumah harus dapat memberikan rasa aman bagi para penghuninya. Sistem yang dapat membantu pemilik rumah dalam upaya mengamankan rumahnya sangat diperlukan. Terutama di masa sekarang ini dimana kasus pencurian merupakan kasus kejahatan yang paling banyak terjadi di Indonesia. Biasanya pencurian terjadi ketika rumah sedang ditinggalkan penghuninya
@@ -60,6 +60,9 @@ Sensor yang digunakan pada sistem keamanan rumah dengan face recognition ini ada
 
 ### Tampilan halaman tambah data
 ![tambah data](https://github.com/nurdilafarha/Ubiquitous-Computing/blob/main/Piruma_addpersonil.jpg)
+
+### Halaman generate dataset
+![generate dataset](https://github.com/nurdilafarha/Ubiquitous-Computing/blob/main/Piruma_generate%20dataset.png)
 
 ### Halaman awal dengan data yang sudah ditambahkan
 ![update data](https://github.com/nurdilafarha/Ubiquitous-Computing/blob/main/Piruma_update%20data.jpg)
