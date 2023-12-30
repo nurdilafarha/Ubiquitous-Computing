@@ -40,7 +40,7 @@ Untuk mengatasi masalah tersebut, maka diperlukan suatu sistem yang dapat memban
 Algoritma Haar-cascade classifier merupakan metode machine learning yang digunakan sebagai metode pengenalan wajah untuk mengklasifikasikan penghuni rumah dan orang asing yang tidak dikenal. OpenCV telah menyediakan berbagai algoritma computer vision di dalamnya yang dapat digunakan secara mudah dan gratis oleh para developer. Maka, metode ini dipilih karena kemudahannya dalam implementasi menggunakan library openCV.
  
 ## Struktur Data
-![tabel relasi](https://github.com/nurdilafarha/Ubiquitous-Computing/blob/main/Tabel%20Relasi_ubikom.drawio%20(1).png)
+![tabel relasi](https://github.com/nurdilafarha/Ubiquitous-Computing/blob/main/Tabel%20Relasi%20Piruma.png)
 
 ## Arsitektur Sistem
 ![arsitektur sistem](https://github.com/nurdilafarha/Ubiquitous-Computing/blob/main/Arsitektur%20Sistem_ubikom.drawio.png)
