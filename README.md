@@ -58,10 +58,14 @@ Sensor yang digunakan pada sistem keamanan rumah dengan face recognition ini ada
 ### Tampilan halaman awal aplikasi
 ![halamn awal](https://github.com/nurdilafarha/Ubiquitous-Computing/blob/main/Piruma_halaman%20awal.jpg)
 
-### Tampilan login menggunakan PHP
-![login](https://github.com/nurdilafarha/Ubiquitous-Computing/blob/main/login-piruma.png)
-### Prototype menggunakan figma
-![login](https://github.com/nurdilafarha/Ubiquitous-Computing/blob/main/Frame%201.png)
-![home](https://github.com/nurdilafarha/Ubiquitous-Computing/blob/main/Frame%202.png)
-![deteksi](https://github.com/nurdilafarha/Ubiquitous-Computing/blob/main/Frame%203.png)
-![hasil deteksi](https://github.com/nurdilafarha/Ubiquitous-Computing/blob/main/Frame%204.png)
+### Tampilan halaman tambah data
+![tambah data](https://github.com/nurdilafarha/Ubiquitous-Computing/blob/main/Piruma_addpersonil.jpg)
+
+### Halaman awal dengan data yang sudah ditambahkan
+![update data](https://github.com/nurdilafarha/Ubiquitous-Computing/blob/main/Piruma_update%20data.jpg)
+
+### Halaman deteksi wajah dan tabel hasil deteksi
+![deteksi](https://github.com/nurdilafarha/Ubiquitous-Computing/blob/main/Piruma_hasil%20deteksi.jpg)
+
+## Demo Aplikasi
+- Link Youtube : https://youtu.be/iGWDuL5HxTM
